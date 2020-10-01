@@ -888,6 +888,7 @@ id blocking
 id bottom
 id bounce
 id btnAdd
+id btnNext
 id buttonPanel
 id center
 id center_vertical
@@ -1047,6 +1048,7 @@ id topPanel
 id transitionToEnd
 id transitionToStart
 id triangle
+id txtAllWords
 id txtRespuesta
 id unchecked
 id uniform
@@ -1097,6 +1099,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_second
 layout custom_dialog
 layout notification_action
 layout notification_action_tombstone

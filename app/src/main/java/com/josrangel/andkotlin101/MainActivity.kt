@@ -1,6 +1,7 @@
 package com.josrangel.andkotlin101
 
 import android.content.Context
+import android.content.Intent
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,24 +11,30 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    //val sharedPreferences: SharedPreferences = getSharedPreferences("NAATPREF", Context.MODE_PRIVATE);
-    val sharedPreferences: SharedPreferences by lazy{
+    //lateinit var sharedPreferences:SharedPreferences
+    val sharedPreferences: SharedPreferences by lazy{//Se ejecutara el bloque lazy cuando se tenga que ejecutar el objeto por primera vez
         getSharedPreferences("NAATPREF", Context.MODE_PRIVATE);
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        //sharedPreferences = getSharedPreferences("NAATPREF", Context.MODE_PRIVATE);
 
         //automaticamente hace el findViewById
-        btnAdd?.setOnClickListener{
+        btnAdd?.setOnClickListener {
             //Toast.makeText(this,"Click ADD",Toast.LENGTH_SHORT).show()
-            val word:String? = editWord?.text?.toString()
+            val word: String? = editWord?.text?.toString()
             saveData(word)
             showData()
 
         }
+
+        btnNext?.setOnClickListener {
+        val intentNext = Intent(this, SecondActivity::class.java)
+            intentNext.putExtra(SecondActivity.KEY_ALLWORD,txtRespuesta?.text?.toString())
+            startActivity(intentNext)
+    }
         showAllData()
 
     }

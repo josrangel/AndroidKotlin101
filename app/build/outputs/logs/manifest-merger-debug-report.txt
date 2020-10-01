@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.core:core-ktx:1.1.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/7152398a3ddf7d6173b22d6a2e92061e/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/4e039017508058e03141616af225b4eb/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -26,25 +26,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kmmx/.gradle/cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/b77732ae052c8a7beadaefc4f5cc2d1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/cfdba3a9d264c21140cf4b27a073b375/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/ef7f8b788d30752a01fb2308ec81e29a/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/3fad7ea4f0b845c6f6667debb95e1494/core-1.3.1/AndroidManifest.xml:24:5-89
@@ -65,20 +65,24 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kmmx
 		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.josrangel.andkotlin101.SecondActivity
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:12:19-49
 activity#com.josrangel.andkotlin101.MainActivity
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kmmx/AndroidStudioProjects/AndKotlin101/app/src/main/AndroidManifest.xml
